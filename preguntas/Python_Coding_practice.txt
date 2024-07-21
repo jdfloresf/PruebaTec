@@ -1,0 +1,110 @@
+### Lists
+1. Write a Python program to find the sum of all elements in a list.
+2. Write a Python program to find the average of all elements in a list.
+3. Write a Python program to find the maximum and minimum elements in a list.
+4. Write a Python program to remove duplicates from a list.
+5. Write a Python program to find the second largest element in a list.
+6. Write a Python program to merge two lists into a single list.
+7. Write a Python program to check if a list is empty.
+8. Write a Python program to clone or copy a list.
+9. Write a Python program to count the occurrences of an element in a list.
+10. Write a Python program to find the common elements in two lists.
+### Tuples
+11. Write a Python program to create a tuple with different data types.
+12. Write a Python program to unpack a tuple into several variables.
+13. Write a Python program to find the length of a tuple.
+14. Write a Python program to convert a tuple to a string.
+15. Write a Python program to find the index of an item in a tuple.
+16. Write a Python program to count the occurrences of an item in a tuple.
+17. Write a Python program to check if an element exists within a tuple.
+18. Write a Python program to convert a list to a tuple.
+19. Write a Python program to remove an item from a tuple.
+20. Write a Python program to slice a tuple.
+### Classes
+21. Write a Python class to represent a rectangle, including methods to calculate its area and perimeter.
+22. Write a Python class to represent a circle, including methods to calculate its area and circumference.
+23. Write a Python class to represent a student, including attributes for name, age, and grade, and methods to display the student details.
+24. Write a Python class to implement a basic bank account with methods to deposit and withdraw money.
+25. Write a Python class to represent a car, including attributes for make, model, and year, and a method to display car details.
+26. Write a Python class to implement a simple calculator with methods for addition, subtraction, multiplication, and division.
+27. Write a Python class to represent a book, including attributes for title, author, and number of pages, and a method to display book details.
+28. Write a Python class to implement a singly linked list.
+29. Write a Python class to represent a complex number, including methods for addition and subtraction of complex numbers.
+30. Write a Python class to create a basic contact management system with methods to add, remove, and search for contacts.
+### Functions
+31. Write a Python function to find the greatest common divisor (GCD) of two numbers.
+32. Write a Python function to find the least common multiple (LCM) of two numbers.
+33. Write a Python function to check if a number is prime.
+34. Write a Python function to find the factorial of a number using recursion.
+35. Write a Python function to implement the Fibonacci sequence using recursion.
+36. Write a Python function to calculate the sum of a list of numbers.
+37. Write a Python function to find the maximum and minimum numbers in a list.
+38. Write a Python function to count the number of vowels in a string.
+39. Write a Python function to check if a string is a palindrome.
+40. Write a Python function to reverse a string.
+### Advanced Lists
+41. Write a Python program to flatten a nested list.
+42. Write a Python program to split a list into evenly sized chunks.
+43. Write a Python program to rotate the elements of a list.
+44. Write a Python program to find the cumulative sum of a list.
+45. Write a Python program to generate all permutations of a list.
+46. Write a Python program to find all possible subsets of a list.
+47. Write a Python program to concatenate two lists index-wise.
+48. Write a Python program to remove the ith element from a list.
+49. Write a Python program to create a list of tuples representing a histogram.
+50. Write a Python program to sort a list of tuples based on the second element.
+### Advanced Tuples
+51. Write a Python program to find the length of the longest tuple.
+52. Write a Python program to convert a tuple of tuples to a dictionary.
+53. Write a Python program to sort a tuple by its float element.
+54. Write a Python program to count the elements in a list until an element is a tuple.
+55. Write a Python program to convert a tuple to a dictionary.
+56. Write a Python program to check if a specified element is present in a tuple of tuples.
+57. Write a Python program to find the index of an item of a tuple in a list of tuples.
+58. Write a Python program to create a dictionary from a tuple.
+59. Write a Python program to add a tuple to a list.
+60. Write a Python program to get the n largest elements from a list of tuples.
+### Advanced Classes
+61. Write a Python class to implement a basic stack data structure.
+62. Write a Python class to implement a basic queue data structure.
+63. Write a Python class to represent a binary tree with methods for insertion, deletion, and traversal.
+64. Write a Python class to implement a graph with methods for adding vertices and edges, and finding the shortest path.
+65. Write a Python class to represent a polynomial and implement methods for polynomial addition and multiplication.
+66. Write a Python class to implement a basic hash table.
+67. Write a Python class to represent a deck of cards and implement methods to shuffle and deal cards.
+68. Write a Python class to represent a tic-tac-toe game and implement methods to play the game.
+69. Write a Python class to represent a shopping cart with methods to add, remove, and view items.
+70. Write a Python class to represent a contact book with methods to add, remove, update, and search contacts.
+### Advanced Functions
+71. Write a Python function to implement binary search.
+72. Write a Python function to implement quicksort.
+73. Write a Python function to implement merge sort.
+74. Write a Python function to implement insertion sort.
+75. Write a Python function to implement selection sort.
+76. Write a Python function to implement heap sort.
+77. Write a Python function to implement depth-first search (DFS) in a graph.
+78. Write a Python function to implement breadth-first search (BFS) in a graph.
+79. Write a Python function to solve the knapsack problem using dynamic programming.
+80. Write a Python function to find the longest common subsequence of two strings.
+### Miscellaneous
+81. Write a Python program to find the common elements in three lists.
+82. Write a Python program to find the difference between two lists.
+83. Write a Python program to find the union of two lists.
+84. Write a Python program to remove the kth element from a list.
+85. Write a Python program to find the cumulative product of a list.
+86. Write a Python program to find all prime numbers in a list.
+87. Write a Python program to find the sum of even numbers in a list.
+88. Write a Python program to find the sum of odd numbers in a list.
+89. Write a Python program to find the product of all elements in a list.
+90. Write a Python program to find the intersection of two lists.
+### Extra Challenges
+91. Write a Python program to find the maximum product of two integers in a list.
+92. Write a Python program to find the longest increasing subsequence in a list.
+93. Write a Python program to rotate a matrix 90 degrees clockwise.
+94. Write a Python program to find the shortest path in a matrix from the top-left corner to the bottom-right corner.
+95. Write a Python program to find the largest rectangle of 1's in a binary matrix.
+96. Write a Python program to find the number of islands in a binary matrix.
+97. Write a Python program to solve the N-queens problem.
+98. Write a Python program to solve the Sudoku puzzle.
+99. Write a Python program to find the maximum sum subarray using Kadane's algorithm.
+100. Write a Python program to implement the A* search algorithm.
